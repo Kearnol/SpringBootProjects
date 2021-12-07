@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;hoppersReceipt/src/main/resources/static/css/main.css&apos; to &apos;style.css&apos;" description="Rename resource &apos;main.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/static/css/main.css" name="style.css" stamp="1638828722004" updateReferences="true"/>
-</session>
