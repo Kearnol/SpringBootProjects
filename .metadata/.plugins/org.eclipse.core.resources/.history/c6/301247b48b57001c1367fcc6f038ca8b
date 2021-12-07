@@ -1,0 +1,5 @@
+package com.dk.books.repos;
+
+public interface BookRepo {
+
+}

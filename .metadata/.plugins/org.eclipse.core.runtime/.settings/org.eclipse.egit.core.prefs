@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=/Users/dkearns/Documents/SpringTools/CareSoftInterface/.git\:/Users/dkearns/Documents/SpringTools/zookeeper/.git\:
+GitRepositoriesView.GitDirectories.relative=CareSoftInterface/.git\:zookeeper/.git\:
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

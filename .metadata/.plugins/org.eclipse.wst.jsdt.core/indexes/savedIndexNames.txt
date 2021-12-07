@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/dkearns/Documents/SpringTools/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3569807325.index
+650885885.index
+3405892559.index
+2382188836.index
+3344242340.index
+3256755155.index
+4015790153.index
+569170726.index

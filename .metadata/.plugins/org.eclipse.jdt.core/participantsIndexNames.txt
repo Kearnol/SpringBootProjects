@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+/Users/dkearns/Documents/SpringTools/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2591087691.index
+/hoppersReceipt/src/main/java
+/Users/dkearns/Documents/SpringTools/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3867940866.index
+/helloworld/src/main/java
+/Users/dkearns/Documents/SpringTools/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1653474453.index
+/demo1/src/main/java
+/Users/dkearns/Documents/SpringTools/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4015790153.index
+/FruityLoops/src/main/java
+/Users/dkearns/Documents/SpringTools/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/650885885.index
+/Omikuji/src/main/java
+/Users/dkearns/Documents/SpringTools/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4159603041.index
+/helloworld/src/main/java
+/Users/dkearns/Documents/SpringTools/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/569170726.index
+/books/src/main/java
